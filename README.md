@@ -1,7 +1,7 @@
 This repository contains scripts relating to the article
 
  > **Plant Strand-seq resolves fine-scale genome structure and reveals genome-wide patterns of DNA damage** \
- > Dylan R. Moxley*, Vincent C.T. Hanlon*, Cassandra Elphinstone, Eric Gerardo González Segovia, Yanni Wang, Daniel Chan, Loren H. Rieseberg, Peter M. Lansdorp, Marco Todesco. (* equal contributions) \
+ > Dylan R. Moxley*, Vincent C.T. Hanlon*, Cassandra Elphinstone, Eric Gerardo González Segovia, Yanni Wang, Daniel Chan, Loren H. Rieseberg, Peter M. Lansdorp, Marco Todesco. (* equal contributions) 
 
 ### Sister chromatid exchange (SCE) analysis
 Running [breakpointr_sce_calling.R](SCEs/breakpointr_sce_calling.R) on a set of single-cell BAM files from good-quality Strand-seq libraries aligned to the HA412HOv3 sunflower genome assembly produces a callset of strand-switches which can be further filtered to generate SCE calls. [breakpointr_sce_calling.R](SCEs/breakpointr_sce_calling.R) uses [breakpointR](https://github.com/daewoooo/breakpointR) with large 5 Mb bins (to identify "big" events that are likely SCEs) and masks a set of recurrent strand-switches that are not SCEs in [bpr_residual_strand_switch_mask.bed](SCEs/bpr_residual_strand_switch_mask.bed).

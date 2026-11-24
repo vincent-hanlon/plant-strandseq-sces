@@ -1,0 +1,15 @@
+sunflower-22sep29-72h-r03-c46_S10.processed.bam
+sunflower-22sep29-72h-r05-c58_S94.processed.bam
+sunflower-22sep29-72h-r07-c40_S148.processed.bam
+sunflower-22sep29-72h-r08-c46_S190.processed.bam
+sunflower-22sep29-72h-r09-c40_S220.processed.bam
+sunflower-22sep29-72h-r09-c47_S227.processed.bam
+sunflower-22sep29-72h-r09-c51_S231.processed.bam
+sunflower-22sep29-72h-r12-c51_S339.processed.bam
+sunflower-22sep29-72h-r14-c53_S413.processed.bam
+sunflower-22sep29-72h-r16-c47_S479.processed.bam
+sunflower-22sep29-72h-r17-c39_S507.processed.bam
+sunflower-22sep29-72h-r17-c41_S509.processed.bam
+sunflower-22sep29-72h-r17-c54_S522.processed.bam
+sunflower-22sep29-72h-r19-c45_S585.processed.bam
+sunflower-22sep29-72h-r19-c57_S597.processed.bam
